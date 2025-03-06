@@ -24,4 +24,4 @@ while not adivinado and cant_intentos < cant_max_intentos:
 if not cant_intentos < cant_max_intentos:
     print("Game Over!, No has podido adivinar el numero dentro de los 5 intentos")
 
-    ##donde se subio?
+    
